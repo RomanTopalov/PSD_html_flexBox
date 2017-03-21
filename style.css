@@ -1,0 +1,91 @@
+.wrapper{
+display: flex;
+	height: auto;
+	flex-flow: row wrap;
+	max-width:324px;
+}
+
+#sidebar{
+	display: flex;
+	position: fixed;
+justify-content: flex-start;
+	max-width: 324px;
+	flex-wrap: wrap ;
+}
+ul{
+	display: flex;
+	text-decoration: none;
+}
+
+#menu{
+	display: flex;
+	width: 300px;
+}
+.menu-v{
+
+	display: flex;
+
+	flex-direction: column;
+	justify-content: center;
+}
+ul.menu-v>li{
+	margin-top: 15px;
+	font-size:30px ;
+	border-bottom: 3px solid beige;
+   display: flex;
+	flex-flow: row wrap;
+text-align: center;
+	text-decoration: none;
+}
+.menu-v>li{
+	margin: auto;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+
+
+
+/*
+=======================MENU-CONTACT===============*/
+.menu-contact{
+
+	font-size: 24px;
+	width: 350px;
+
+}
+.menu-contact{
+
+
+}
+.menu-location{
+
+	display: flex;
+
+
+}
+ul.share>li{
+	display: flex;
+	flex-flow: row wrap;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
