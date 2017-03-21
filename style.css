@@ -1,16 +1,22 @@
 .wrapper{
+	position: fixed;
 display: flex;
 	height: auto;
 	flex-flow: row wrap;
-	max-width:324px;
+	width:365px;
 }
 
 #sidebar{
 	display: flex;
 	position: fixed;
 justify-content: flex-start;
-	max-width: 324px;
+	max-width: 350px;
 	flex-wrap: wrap ;
+}
+
+#logo{
+	margin: auto;
+	padding-top: 17px;
 }
 ul{
 	display: flex;
@@ -19,15 +25,58 @@ ul{
 
 #menu{
 	display: flex;
-	width: 300px;
+	width: 324px;
+	justify-content: center;
 }
 .menu-v{
 
 	display: flex;
-
 	flex-direction: column;
-	justify-content: center;
+	justify-content: flex-end;
 }
+.subMenu-1{
+	position: fixed;
+	display: flex;
+	justify-content:flex-end;
+	flex-direction: column;
+	left: 340px;
+	list-style:none;
+	opacity: 0;
+
+}
+.menu-v>li:hover{
+	border-bottom: 3px solid #737272;
+	border-top: 3px solid #737272;
+	transition: 0.5s;
+}
+.menu-v>li:hover .subMenu-1{
+	opacity: 1;
+	transition: 0.5s;
+
+}
+.subMenu-2{
+	position: fixed;
+	display: flex;
+	justify-content:flex-end;
+	flex-direction: column;
+	left: 340px;
+	list-style:none;
+	opacity: 0;
+}
+.menu-v>li:hover{
+	border-bottom: 3px solid #737272;
+	border-top: 3px solid #737272;
+	transition: 0.5s;
+}
+.menu-v>li:hover .subMenu-2{
+	opacity: 1;
+	transition: 0.5s;
+
+}
+
+
+
+
 ul.menu-v>li{
 	margin-top: 15px;
 	font-size:30px ;
@@ -40,9 +89,11 @@ text-align: center;
 .menu-v>li{
 	margin: auto;
 	text-align: center;
+	width: 100%;
 }
 a{
 	text-decoration: none;
+
 }
 
 
@@ -52,7 +103,8 @@ a{
 .menu-contact{
 
 	font-size: 24px;
-	width: 350px;
+	width: 100%;
+margin: auto;
 
 }
 .menu-contact{
@@ -60,16 +112,26 @@ a{
 
 }
 .menu-location{
-
+margin-top: 10px;
 	display: flex;
-
+	justify-content:space-between;
+	width: auto;
 
 }
 ul.share>li{
 	display: flex;
 	flex-flow: row wrap;
 	text-decoration: none;
+	align-items: stretch;
 }
+
+ul.share{
+	height: auto;
+	margin: auto;
+	text-align: center;
+
+}
+
 
 
 
