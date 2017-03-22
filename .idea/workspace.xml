@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cf7b5d1-0c16-4ece-9a74-31b0b0b9e119" name="Default" comment="" />
+    <list default="true" id="2cf7b5d1-0c16-4ece-9a74-31b0b0b9e119" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/facebook_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/google-plus_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/group_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/group_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/group_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/group_copy_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/group_copy_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/instagram_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/linkedin_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/path.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/path_path_path_path_path.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_1_copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_1_copy_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_1_copy_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_2_copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_2_copy_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_2_copy_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_2_copy_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_3_copy_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_3_copy_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_3_copy_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_3_copy_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_3_copy_8_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_4_copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_4_copy_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_4_copy_3_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_4_copy_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_5_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/polygon_5_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/rectangle_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/rectangle_13_copy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/rectangle_13_copy_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/rectangle_13_copy_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/rectangle_13_copy_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/rectangle_13_copy_4_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/rectangle_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/rectangle_17_copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/rectangle_17_copy_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/shape_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/shape_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/skype_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/slide1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/slide2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/slide3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/twitter_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/vk_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/youtube_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/contact.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/images/logo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,15 +76,46 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.53614455">
+    <splitter split-orientation="horizontal" split-proportion="0.5632965">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="218">
-                  <caret line="55" column="41" lean-forward="false" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+                <state relative-caret-position="-187">
+                  <caret line="86" column="12" lean-forward="false" selection-start-line="86" selection-start-column="8" selection-end-line="109" selection-end-column="21" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="контакты.psd" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/contact/contact_images/контакты.psd">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/contact/contact.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+                  <folding>
+                    <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#p#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -33,12 +123,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/style.css">
+        <leaf>
+          <file leaf-file-name="contact.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/contact/contact.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="684">
-                  <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+                <state relative-caret-position="136">
+                  <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
                   <folding />
                 </state>
               </provider>
@@ -48,11 +138,24 @@
       </split-second>
     </splitter>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact/contact.html" />
+        <option value="$PROJECT_DIR$/contact/contact.css" />
       </list>
     </option>
   </component>
@@ -63,9 +166,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="y" value="3" />
-    <option name="width" value="868" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -96,6 +199,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -103,9 +252,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/contact/contact.html" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Romario\Work\Work_git\HTML_CSS\Test2\contact" />
+    </key>
   </component>
   <component name="RunManager" selected="Node.js.Unnamed">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -167,8 +325,11 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="false" name="Unnamed JavaScript" type="JavascriptDebugType" factoryName="JavaScript Debug" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Test2/contact/contact.html">
+      <method />
+    </configuration>
     <configuration default="false" name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="$PROJECT_DIR$">
-      <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" start="true" with-js-debugger="true" url="http://localhost:63342/Test2/index.html" />
+      <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" start="true" with-js-debugger="true" url="http://localhost:63342/Test2/contact/contact.html" />
       <profiling v8-profiler-path="" />
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -195,16 +356,13 @@
         <profiling v8-profiler-path="" />
       </EXTENSION>
       <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
-        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" start="true" with-js-debugger="true" url="http://localhost:63342/Test2/index.html" />
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" start="true" with-js-debugger="true" url="http://localhost:63342/Test2/contact/contact.html" />
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="false" name="Unnamed JavaScript" type="JavascriptDebugType" factoryName="JavaScript Debug" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Test2/index.html">
-      <method />
-    </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Unnamed JavaScript" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Unnamed JavaScript" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Unnamed" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -220,22 +378,24 @@
       <workItem from="1490046672571" duration="811000" />
       <workItem from="1490077984085" duration="3887000" />
       <workItem from="1490088380011" duration="1713000" />
-      <workItem from="1490112734515" duration="8713000" />
+      <workItem from="1490112734515" duration="8784000" />
+      <workItem from="1490176045685" duration="176000" />
+      <workItem from="1490183246100" duration="9536000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15124000" />
+    <option name="totallyTimeSpent" value="24907000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="3" width="868" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15252976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.124255955" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60294116" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6013072" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -260,6 +420,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="41" lean-forward="false" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
@@ -316,18 +508,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="55" column="41" lean-forward="false" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+        <state relative-caret-position="17">
+          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/contact/contact_images/контакты.psd">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        <state relative-caret-position="-187">
+          <caret line="86" column="12" lean-forward="false" selection-start-line="86" selection-start-column="8" selection-end-line="109" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact/contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
           <folding />
         </state>
       </provider>

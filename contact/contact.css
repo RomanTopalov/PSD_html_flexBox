@@ -1,0 +1,107 @@
+
+
+.contact-form{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    border: 1px solid #737272;
+    width: 486px;
+    height: 550px;
+    background-color: #fff;
+}
+
+
+.title-contact{
+    position: relative;
+    top:20px;
+    left:30px;
+}
+.contact-menu a{
+    display: block;/* властивість блоку*/
+    height:auto;
+    width:70px;
+
+    text-decoration:none;/*прибрати декорацію якорів*/
+    text-align:left;
+    color:#f1f0f0;
+    font-size: 20px;
+}
+.contact-menu a:hover{
+    text-decoration:underline;/*прибрати декорацію якорів*/
+    color: #3c3c3c;
+}
+
+ul.contact-menu>li{
+    display: inline-block;
+}
+
+.info-main-div{
+    position: relative;
+
+    display: inline-block;
+    left: 68px;
+    top: 20px;
+    font-size: 24px;
+}
+.info-contact{
+
+    padding-left: 9px;
+    margin: 0px;
+    padding-top: 17px;
+
+}
+
+
+
+ul.info-contact {
+    position: relative;
+    list-style: none; /* забирає маркування*/
+    float: left;
+    padding-top:1px ;
+
+
+
+}
+ul.info-contact>li{
+    display:block;
+}
+
+.images-ul-contact-icons img{
+    display: inline-block;
+    height:40px ;
+    width:40px;
+
+}
+ul.images-ul-contact-icons{
+    margin-top: 217px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 75px;
+
+
+
+
+}
+.images-li-contact img{
+    display: inline-block;
+    height:40px ;
+    width:40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
